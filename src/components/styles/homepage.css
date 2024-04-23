@@ -1,0 +1,28 @@
+.homepageimgdetails{
+    display: flex;
+    justify-content: space-between;
+}
+
+.firstdiv{
+    width: 50%;
+    height: 92vh;
+    background-color: rgb(38, 35, 35);
+    display: flex;
+}
+
+.seconddiv{
+    width: 50%;
+    height: 92vh;
+    background-color: aqua;
+background-color: rgb(38, 35, 35);
+}
+
+.firstdivcontent{
+padding-top: 90px;    
+padding-left: 20px;    
+
+}
+
+.profiledesc{
+    margin-top: 10px;
+}
