@@ -3,6 +3,7 @@ import "./styles/homepage.css";
 import Person from "../assets/person.jpg";
 import MWT from "../assets/mwttechnologies_logo.jpg"
 import CABOT from "../assets/cabot.jpg"
+// @ts-ignore
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/all";
 
