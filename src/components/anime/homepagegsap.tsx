@@ -1,4 +1,3 @@
-import gsap from 'gsap';
 
 function GsapanimateHomepage() {
    
