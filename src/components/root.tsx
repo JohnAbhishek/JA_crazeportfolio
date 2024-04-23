@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import "./styles/root.css"
 import Navbar from './navbar'
 import Aboutpage from './aboutpage'

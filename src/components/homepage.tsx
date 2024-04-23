@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import "./styles/homepage.css";
 import Person from "../assets/person.jpg";
 import MWT from "../assets/mwttechnologies_logo.jpg"

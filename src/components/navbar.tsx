@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import "./styles/navbar.css";
 import GsapanimateNavbar from "./anime/navbargsapanime";
 type Props={
